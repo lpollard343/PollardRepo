@@ -1,5 +1,0 @@
----
-title: "Labs"
----
-
-This is where I store all my labs!

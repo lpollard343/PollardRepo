@@ -1,7 +1,0 @@
----
-title: "About"
----
-
-Hi, my name is Lydia Pollard. I am a senior biology major at the University of Massachusetts Amherst. I have a strong background in genetics and would like to pursue a career in that field.
-
-![My Cat, Jinx, Investigating the Butter Dish](images/Jinx.jpeg)
