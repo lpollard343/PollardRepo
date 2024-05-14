@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Presentation.qmd
+      - Project.qmd
 format:
   html:
     theme: darkly
